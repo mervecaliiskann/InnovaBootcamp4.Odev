@@ -9,21 +9,29 @@
 /* Begin PBXBuildFile section */
 		EC81EB762CA5A11C00FD8DA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB752CA5A11C00FD8DA5 /* AppDelegate.swift */; };
 		EC81EB782CA5A11C00FD8DA5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB772CA5A11C00FD8DA5 /* SceneDelegate.swift */; };
-		EC81EB7A2CA5A11C00FD8DA5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB792CA5A11C00FD8DA5 /* ViewController.swift */; };
+		EC81EB7A2CA5A11C00FD8DA5 /* Anasayfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB792CA5A11C00FD8DA5 /* Anasayfa.swift */; };
 		EC81EB7D2CA5A11C00FD8DA5 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EC81EB7C2CA5A11C00FD8DA5 /* Base */; };
 		EC81EB7F2CA5A11E00FD8DA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC81EB7E2CA5A11E00FD8DA5 /* Assets.xcassets */; };
 		EC81EB822CA5A11E00FD8DA5 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EC81EB812CA5A11E00FD8DA5 /* Base */; };
+		EC81EB8A2CA5A6B600FD8DA5 /* SayfaB.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB892CA5A6B600FD8DA5 /* SayfaB.swift */; };
+		EC81EB8C2CA5A6DD00FD8DA5 /* SayfaA.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB8B2CA5A6DD00FD8DA5 /* SayfaA.swift */; };
+		EC81EB8E2CA5A6EB00FD8DA5 /* SayfaX.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB8D2CA5A6EB00FD8DA5 /* SayfaX.swift */; };
+		EC81EB902CA5A6F500FD8DA5 /* SayfaY.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC81EB8F2CA5A6F500FD8DA5 /* SayfaY.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EC81EB722CA5A11C00FD8DA5 /* InnovaBootcamp4.Odev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InnovaBootcamp4.Odev.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC81EB752CA5A11C00FD8DA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC81EB772CA5A11C00FD8DA5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EC81EB792CA5A11C00FD8DA5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC81EB792CA5A11C00FD8DA5 /* Anasayfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anasayfa.swift; sourceTree = "<group>"; };
 		EC81EB7C2CA5A11C00FD8DA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EC81EB7E2CA5A11E00FD8DA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC81EB812CA5A11E00FD8DA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC81EB832CA5A11E00FD8DA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC81EB892CA5A6B600FD8DA5 /* SayfaB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaB.swift; sourceTree = "<group>"; };
+		EC81EB8B2CA5A6DD00FD8DA5 /* SayfaA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaA.swift; sourceTree = "<group>"; };
+		EC81EB8D2CA5A6EB00FD8DA5 /* SayfaX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaX.swift; sourceTree = "<group>"; };
+		EC81EB8F2CA5A6F500FD8DA5 /* SayfaY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaY.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +66,11 @@
 			children = (
 				EC81EB752CA5A11C00FD8DA5 /* AppDelegate.swift */,
 				EC81EB772CA5A11C00FD8DA5 /* SceneDelegate.swift */,
-				EC81EB792CA5A11C00FD8DA5 /* ViewController.swift */,
+				EC81EB792CA5A11C00FD8DA5 /* Anasayfa.swift */,
+				EC81EB8B2CA5A6DD00FD8DA5 /* SayfaA.swift */,
+				EC81EB892CA5A6B600FD8DA5 /* SayfaB.swift */,
+				EC81EB8D2CA5A6EB00FD8DA5 /* SayfaX.swift */,
+				EC81EB8F2CA5A6F500FD8DA5 /* SayfaY.swift */,
 				EC81EB7B2CA5A11C00FD8DA5 /* Main.storyboard */,
 				EC81EB7E2CA5A11E00FD8DA5 /* Assets.xcassets */,
 				EC81EB802CA5A11E00FD8DA5 /* LaunchScreen.storyboard */,
@@ -138,8 +150,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC81EB7A2CA5A11C00FD8DA5 /* ViewController.swift in Sources */,
+				EC81EB7A2CA5A11C00FD8DA5 /* Anasayfa.swift in Sources */,
+				EC81EB8A2CA5A6B600FD8DA5 /* SayfaB.swift in Sources */,
+				EC81EB8C2CA5A6DD00FD8DA5 /* SayfaA.swift in Sources */,
+				EC81EB8E2CA5A6EB00FD8DA5 /* SayfaX.swift in Sources */,
 				EC81EB762CA5A11C00FD8DA5 /* AppDelegate.swift in Sources */,
+				EC81EB902CA5A6F500FD8DA5 /* SayfaY.swift in Sources */,
 				EC81EB782CA5A11C00FD8DA5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

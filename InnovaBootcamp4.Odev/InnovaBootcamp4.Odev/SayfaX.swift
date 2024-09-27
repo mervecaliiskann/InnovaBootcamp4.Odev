@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SayfaX.swift
 //  InnovaBootcamp4.Odev
 //
 //  Created by Merve Çalışkan on 26.09.2024.
@@ -7,13 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SayfaX: UIViewController {
 
+    @IBOutlet weak var sayfaXLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+    }
+    @IBAction func gitYButton(_ sender: UIButton) {
+    }
+    
 
 }
-
